@@ -1,0 +1,563 @@
+body{
+  margin: 0;
+}
+.border{
+  width:100%;
+  height: 80px;
+  background-color: black;
+  overflow: hidden;
+
+}
+.img-logo{
+  margin-left:150px;
+ float: left;
+ width: 160px;
+ height: 60px;
+ padding-top: 10px;
+ padding-right: 10px;
+ cursor: pointer;
+}
+
+.Premium-button{
+  margin-left: 35%;
+  background-color: rgb(10, 10, 10);
+  color:white;
+  border: none;
+  font-weight: bold;
+  height: 80px;
+  width: 10px;
+  font-size: medium;
+  cursor: pointer;
+
+}
+.Premium-button:hover{
+  color: #1ed760;
+}
+
+.Support-button{
+  margin-left: 5.6%;
+  background-color: black;
+  color: white;
+  border: none;
+  font-weight: bold;
+  font-size: medium;
+  cursor: pointer;
+}
+.Support-button:hover{
+  color: #1ed760;
+}
+
+.Download-button{
+  margin-left: 1%;
+  background-color: black;
+  color: white;
+  border: none;
+  font-weight: bold;
+  font-size: medium;
+  cursor: pointer;
+}
+.Download-button:hover{
+  color: #1ed760;
+}
+.Symbol{
+  margin-left: 1%;
+  background-color: black;
+  color: white;
+  border: none;
+  font-weight: 100;
+  font-size: 150%;
+}
+
+.First-box{
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+
+.First-font{
+  position: absolute;
+  top:30%;
+  right: 15%;
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 64px;
+  letter-spacing: -2.56px;
+  max-width: 653px;
+}
+
+.Free-button{
+  position: absolute;
+  background-color: white;
+  margin-left: 630px;
+  margin-top: -266px;
+  border-radius: 500px;
+  border: none;
+  width:200px;
+  height:50px;
+  font-weight: 600px;
+  cursor: pointer;
+  
+}
+.Free-button:hover{
+  margin-left: 628px;
+  margin-top: -268px;
+  border-radius: 503px;
+  border: none;
+  width:204px;
+  height:53px;
+  font-weight: bold;
+}
+
+.Second-box{
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+.Second-font{
+
+  margin-top: 70px;
+  max-width: 670px;
+  margin-left:42%;
+  margin-right: auto;
+  font-size: 40px;
+  font-family:Arial, Helvetica, sans-serif;
+  
+}
+
+.Play-icon{
+  margin-top: 50px;
+  margin-left: 238px;
+}
+.Library-icon{
+  margin-left: 138px;
+}
+.Favourite-icon{
+  margin-left: 139px;
+}
+.Data-icon{
+  margin-left: 140px;
+}
+
+.play-main-font{
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 21px;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-left: 210px;
+  margin-top: 38px;
+}
+.Library-main-font{
+  font-weight: bold;
+  margin-bottom: 90px;
+  font-size: 21px;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-left: 500px;
+  margin-top: -124px;
+}
+.Favourite-main-font{
+  font-weight: bold;
+  margin-bottom: 90px;
+  font-size: 21px;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-left: 810px;
+  margin-top: -125px;
+}
+.Data-main-font{
+  font-weight: bold;
+  margin-bottom: 90px;
+  font-size: 21px;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-left: 1080px;
+  margin-top: -101px;
+}
+.PLay-sub-font{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size:medium;
+  margin-right: 861px;
+  line-height: 1.4
+}
+.Library-sub-font{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size:medium;
+  margin-right:270px;
+  margin-top: -5%;
+  line-height: 1.4
+}
+.Favourite-sub-font{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size:medium;
+  margin-left:280px;
+  margin-top: -5%;
+  line-height: 1.4
+}
+.Data-sub-font{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size:medium;
+  margin-left:850px;
+  margin-top: -5%;
+  line-height: 1.4
+}
+
+.Third-box{
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+.Third-div-font{
+  position: absolute;
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  color:white;
+  top:163%;
+  font-size: 48px;
+  padding-top: 190px;
+  margin-left: 490px;
+  overflow:hidden;
+}
+
+.Fourth-box{
+  width: 100%;
+  height: 550px;
+  overflow: hidden;
+}
+
+.Main-font{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.summary-1{
+  font-family:Arial, Helvetica, sans-serif;
+  color: rgb(9, 9, 9);
+  font-weight: bold;
+  font-size: 120%;
+  cursor: pointer;
+  margin: 30px;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-left: 10%;
+  margin-top: 1%;
+}
+.summary-1-sub{
+  margin-left:12% ;
+}
+
+.Fifth-box{
+  width: 100%;
+  height: 452px;
+  overflow: hidden;
+}
+.Fifth-div{
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+.Fifth-div-font{
+  font-family:Arial, Helvetica, sans-serif;
+  position: absolute;
+  color: white;
+  top:326%;
+  margin-left: 29%;
+  font-size: 75px;
+}
+.Free-button2{
+  position: absolute;
+  background-color: white;
+  margin-left: -830px;
+  margin-top: 260px;
+  border-radius: 500px;
+  border: none;
+  width:200px;
+  height:50px;
+  font-weight: 600px;
+  cursor: pointer;
+}
+.Free-button2:hover{
+  margin-left:-832px;
+  margin-top: 258px;
+  border-radius: 503px;
+  width: 204px;
+  height:54px;
+  font-weight: bold;
+}
+
+.Sixth-box{
+  width: 100%;
+  height: 556px;
+  overflow: hidden;
+  background-color: black;
+}
+.Footer-spy-logo{
+ 
+ width:150px;
+ padding-left: 150px;
+ padding-top: 70px;
+ float: left;
+}
+.ul-1{
+  color:white ;
+  list-style-type: none;
+  width: 50px;
+  margin-left: 350px;
+}
+
+#first-line{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color: #919496;
+  padding-left: 0px;
+  padding-top: 80px;
+  font-size: small;
+}
+#first-line-sub1{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left: 0px;
+  margin-top: 130px;
+  font-size: medium;
+  cursor: pointer;
+}
+#first-line-sub1:hover{
+  color: #1ed760;
+}
+#first-line-sub2{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left: 0px;
+  margin-top: 180px;
+  font-size: medium;
+  
+}
+#first-line-sub2:hover{
+  color: #1ed760;
+}
+#first-line-sub3{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left: 0px;
+  margin-top: 230px;
+  font-size: medium;
+  cursor: pointer;
+}
+#first-line-sub3:hover{
+  color: #1ed760;
+}
+
+.ul-2{
+  color:white ;
+  list-style-type: none;
+  width: 50px;
+  margin-left: 570px;
+}
+#first-line-ul2{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color: #919496;
+  padding-left: 0px;
+  padding-top: 80px;
+  font-size: small;
+
+}
+
+#second-line-sub1{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left:0px;
+  margin-top: 130px;
+  font-size: medium;
+  cursor: pointer;
+}
+#second-line-sub1:hover{
+  color: #1ed760;
+}
+#third-line-sub2{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left: 0px;
+  margin-top: 180px;
+  font-size: medium;
+}
+#third-line-sub2:hover{
+  color: #1ed760;
+}
+#fourth-line-sub3{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left:0px;
+  margin-top: 230px;
+  font-size: medium;
+  cursor: pointer;
+}
+#fourth-line-sub3:hover{
+  color: #1ed760;
+}
+#fifth-line-sub4{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left:0px;
+  margin-top: 278px;
+  font-size: medium;
+  cursor: pointer;
+}
+#fifth-line-sub4:hover{
+  color: #1ed760;
+}
+#sixth-line-sub5{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left:0px;
+  margin-top: 326px;
+  font-size: medium;
+  cursor: pointer;
+}
+#sixth-line-sub5:hover{
+  color: #1ed760;
+}
+
+.ul-3{
+  color:white ;
+  list-style-type: none;
+  width: 50px;
+  margin-left: 781px;
+}
+#first-line-3{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color: #919496;
+  padding-left: 0px;
+  padding-top: 80px;
+  font-size: small;
+}
+#second-3{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left:0px;
+  margin-top: 130px;
+  font-size: medium;
+  cursor: pointer;
+}
+#second-3:hover{
+  color: #1ed760;
+}
+#third-3{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left: 0px;
+  margin-top: 180px;
+  font-size: medium;
+}
+#third-3:hover{
+  color: #1ed760;
+}
+#fourth-3{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  color: white;
+  padding-left:0px;
+  margin-top: 230px;
+  font-size: medium;
+  cursor: pointer;
+}
+#fourth-3:hover{
+  color: #1ed760;
+}
+.logo-div{
+  width: 50 px;
+  margin-left: 60px;
+
+}
+
+
+.inata-logo{
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  margin-left: 800px;
+  margin-top: 50px;
+  border: none;
+}
+
+.table{
+  font-family:Arial, Helvetica, sans-serif;
+  color: #919496;
+  margin-top: 480px;
+  margin-left: 150px;
+  width: 600px;
+  font-size: 10px;
+  cursor: pointer;
+}
+.table-text:hover{
+  color: #1ed760;
+}
+
+.icon-div{
+  float: right;
+  width: 400px;
+  height: 500px;
+  margin-top: -500px;
+}
+.icons{
+  background-color: white;
+  border-radius: 100 px;
+  width: 34px;
+  height: 34px;
+  margin-top: 110px;
+  margin-left: 20px;
+}
+.icons:hover{
+  background-color: #1ed760;
+}
+.icon-text{
+  font-family:Arial, Helvetica, sans-serif;
+  color: #919496;
+  margin-top: 299px;
+  margin-left: 110px;
+  font-size: 10px; 
+}
+.icon-text-2{
+  position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
+  color: #919496;
+  margin-top: 10px;
+  margin-left: 80px;
+  font-size: 12px;
+}
